@@ -11,7 +11,7 @@
                 <headerContainer>
                     <HeaderContainer id="headerTest1">
                         <HBox id="box1">
-                            <Button id="b1" text="button 1" class="sapUiSmallMarginEnd">
+                            <Button id="b1" text="button 111" class="sapUiSmallMarginEnd">
                             </Button>
                         </HBox>
                     </HeaderContainer>

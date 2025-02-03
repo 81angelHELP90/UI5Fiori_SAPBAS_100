@@ -1,0 +1,22 @@
+<mvc:View controllerName="com.order.es5.ordertest1.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m" 
+	xmlns:f="sap.f" 
+	xmlns:layout="sap.ui.layout" 
+	xmlns:semantic="sap.f.semantic" 
+	xmlns:core="sap.ui.core">
+    <Page id="page" title="{i18n>title}">
+        <content><!---->
+            <ObjectHeader id="test1" responsive="true">
+                <headerContainer>
+                    <HeaderContainer id="headerTest1">
+                        <HBox id="box1">
+                            <Button id="b1" text="button 1" class="sapUiSmallMarginEnd">
+                            </Button>
+                        </HBox>
+                    </HeaderContainer>
+                </headerContainer>
+            </ObjectHeader>
+        </content>
+    </Page>
+</mvc:View>
